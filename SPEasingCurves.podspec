@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.screenshot = 'https://raw.github.com/sergiou87/SPEasingCurves/master/SPEasingCurvesExample/example.gif'
   s.homepage = 'https://github.com/sergiou87/SPEasingCurves'
   s.author   = { "Sergio Padrino" => "sergio.padrino@gmail.com" }
-  s.source   = { :git => 'https://github.com/sergiou87/SPEasingCurves.git', :tag => '0.1' }
+  s.source   = { :git => 'https://github.com/sergiou87/SPEasingCurves.git', :tag => '1.0' }
   s.platform     = :ios, '6.0'
   s.source_files = 'SPEasingCurves'
   s.requires_arc = true
